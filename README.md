@@ -20,7 +20,3 @@ different quality categories?
 
 # DATASET LINK:
 http://www3.dsi.uminho.pt/pcortez/wine/
-
-
-# GITHUB REPOSITORY:
-https://github.com/Jagadeeshwarkalyanapu/Team_Bees
